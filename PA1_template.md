@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer assessment 1"
-author: "Robert Blaser"
+author: "Karthik Sampath"
 date: "Monday, October 17, 2014"
 output: html_document
 ---
